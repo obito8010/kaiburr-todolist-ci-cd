@@ -276,20 +276,3 @@ docker stats todolist-app
 * GitHub: [@obito8010](https://github.com/obito8010)
 * Email: [chinmay.saseendran@gmail.com](mailto:chinmay.saseendran@gmail.com)
 * Assessment: Kaiburr Recruitment Process
-
----
-
-<div align="center">
-
-### 🎯 Built for Kaiburr Assessment
-
-**Demonstrating Modern Full-Stack Development & DevOps Excellence**
-
-*"Quality in a product or service is not what the supplier puts in.
-It is what the customer gets out and is willing to pay for."*
-— Peter Drucker
-
-</div>
-```
-
----
