@@ -1,0 +1,22 @@
+name: Simple Test Workflow
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  simple-test:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Basic Validation
+      run: |
+        echo "✅ Repository cloned successfully"
+        echo "📁 Files in repository:"
+        ls -la
+        echo "🔍 Checking essential files..."
+        [ -f "index.html" ] && echo "✅ index.html exists" || echo "❌ index.html missing"
+        [ -f "package.json" ] && echo "✅ package.json exists" || echo "❌ package.json missing"
+        [ -f "Dockerfile" ] && echo "✅ Dockerfile exists" || echo "❌ Dockerfile missing"
