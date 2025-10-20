@@ -293,19 +293,3 @@ It is what the customer gets out and is willing to pay for."*
 ```
 
 ---
-
-✅ **How to use this:**
-
-* Place your screenshots in the `/screenshots/` folder:
-
-  ```
-  final-ui.png  
-  docker-build.png  
-  health-endpoint.png  
-  github-actions.png  
-  working-demo.gif
-  ```
-* The GIF (`working-demo.gif`) will appear **large and centered**.
-* The four smaller screenshots will appear **neatly stacked above it**.
-
-Would you like me to make it look even more *portfolio-style* (like a modern landing layout with gradient separators and badges)?
