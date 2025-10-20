@@ -26,7 +26,7 @@ This project demonstrates industry-standard development practices and DevOps pri
 ---
 
 ### 🎥 Working Demo
-<img src="./screenshots/working-demo.gif" alt="Working Project Demo" width="800"/>
+<img src="https://github.com/obito8010/kaiburr-todolist-ci-cd/blob/76259f6c2470475ee717c03e87e247be294ee5cf/screenshots/ci-cd.gif" alt="Working Project Demo" width="800"/>
 
 </div>
 
