@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
-    "test": "echo 'No tests yet' && exit 0"
+    "test": "node test.js"
   },
   "keywords": ["todolist", "kaiburr", "docker", "ci-cd"],
   "author": "Your Name",
